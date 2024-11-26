@@ -1,2 +1,1 @@
-# CMS-developer
-CMS-developer
+#Developer Certification for HubSpot
